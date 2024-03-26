@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="6"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    tools:context=".SignUp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:weightSum="6">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:id="@+id/spotit"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:adjustViewBounds="true"
+                android:layout_marginLeft="55dp"
+                android:src="@drawable/img_dyslexialogo1" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="7"
+                android:text="DyslexiaDetect"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:gravity="center_vertical"></TextView>
+
+        </LinearLayout>
+
+        <!--        <ImageView-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="0dp"-->
+        <!--            android:layout_weight="4"-->
+        <!--            android:src="@drawable/img_dyslexialogo1.png" />-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="SignUp"
+            android:textSize="28dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            style="@style/CardView.Dark"
+            android:layout_weight="2"
+            ></TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="4.2"
+        android:weightSum="12.5"
+        android:layout_marginTop="15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.7"
+            android:text="Email"
+            android:textSize="20dp"
+            style="@style/CardView.Dark"
+            android:gravity="bottom"
+            android:layout_marginTop="0dp"></TextView>
+
+        <EditText
+            android:id="@+id/eTEmail"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:inputType="textEmailAddress"
+            android:paddingLeft="15dp"
+            android:background="@drawable/circular_background"
+            android:hint="Enter email"
+            android:textSize="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="15dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.7"
+            android:text="Name"
+            android:textSize="20dp"
+            style="@style/CardView.Dark"
+            android:gravity="bottom"
+            android:layout_marginTop="0dp"></TextView>
+
+        <EditText
+            android:id="@+id/eTName"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:paddingLeft="15dp"
+            android:background="@drawable/circular_background"
+            android:hint="Enter name"
+            android:textSize="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="15dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.7"
+            android:text="Username"
+            android:textSize="20dp"
+            style="@style/CardView.Dark"
+            android:gravity="bottom"
+            android:layout_marginTop="0dp"></TextView>
+
+        <EditText
+            android:id="@+id/eTUsername"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:inputType="text"
+            android:paddingLeft="15dp"
+            android:background="@drawable/circular_background"
+            android:hint="Enter username"
+            android:textSize="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="15dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.7"
+            android:text="Age"
+            android:textSize="20dp"
+            style="@style/CardView.Dark"
+            android:gravity="bottom"
+            android:layout_marginTop="0dp"></TextView>
+
+        <EditText
+            android:id="@+id/eTAge"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:inputType="number"
+            android:paddingLeft="15dp"
+            android:background="@drawable/circular_background"
+            android:hint="Enter age"
+            android:textSize="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="15dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.7"
+            android:text="Password"
+            android:textSize="20dp"
+            style="@style/CardView.Dark"
+            android:gravity="bottom"
+            android:layout_marginTop="0dp"></TextView>
+
+        <EditText
+            android:id="@+id/eTPassword"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:inputType="numberPassword"
+            android:paddingLeft="15dp"
+            android:background="@drawable/circular_background"
+            android:hint="Enter password"
+            android:textSize="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="15dp"
+            />
+
+        <Button
+            android:id="@+id/signUpButton"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:text="Sign Up"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:drawablePadding="@dimen/cardview_default_radius"
+            android:backgroundTint="#FF9800"></Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:weightSum="2"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            ></TextView>
+
+        <TextView
+            android:id="@+id/goTologin"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Login"
+            android:gravity="center"
+            android:layout_marginBottom="25dp"
+            android:textSize="23dp"
+            android:textStyle="bold"
+            ></TextView>
+
+
+    </LinearLayout>
+
+</LinearLayout>

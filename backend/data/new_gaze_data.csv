@@ -1,0 +1,8 @@
+RecordingTime [ms],Point of Regard Left X [px],Point of Regard Left Y [px],Point of Regard Right X [px],Point of Regard Right Y [px],gaze_direction,Category left,Category right
+1711083884821,653,729,1133,725,Looking center,Unknown,Unknown
+1711083893514,653,729,1133,725,Looking center,Fixation,Fixation
+1711083900259,549,704,1038,703,Looking center,Saccade,Saccade
+1711083905513,549,704,1038,703,Looking center,Fixation,Fixation
+1711083911268,631,663,1144,663,Looking center,Saccade,Saccade
+1711083926239,504,682,1042,673,Looking center,Saccade,Saccade
+1711083931353,504,682,1042,673,Looking center,Fixation,Fixation

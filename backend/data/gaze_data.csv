@@ -1,0 +1,313 @@
+RecordingTime [ms],Point of Regard Left X [px],Point of Regard Left Y [px],Point of Regard Right X [px],Point of Regard Right Y [px],gaze_direction,Category Left,Category Right
+1.71E+12,536.0879403,1649.954397,1018.098627,1660.858687,Looking center,Unknown,Unknown
+1.71E+12,456.4634747,1538.141109,993.3199638,1526.452952,Looking center,Saccade,Saccade
+1.71E+12,411.6804068,1542.124699,967.8824788,1520.807408,Looking center,Saccade,Fixation
+1.71E+12,357.7851675,1490.692488,967.7791571,1471.41869,Looking center,Saccade,Saccade
+1.71E+12,420.112107,1498.928886,962.3552451,1486.280418,Looking center,Saccade,Fixation
+1.71E+12,431.8748436,1497.17491,964.1903354,1494.84907,Looking center,Fixation,Fixation
+1.71E+12,418.5385096,1521.551993,934.7536648,1514.095698,Looking center,Fixation,Saccade
+1.71E+12,413.9459017,1524.610522,940.3226329,1514.487053,Looking center,Fixation,Fixation
+1.71E+12,403.0031612,1533.04496,943.9809343,1534.449471,Looking center,Fixation,Fixation
+1.71E+12,636,668,1039,659,Looking center,Unknown,Unknown
+1.71E+12,636,668,1039,659,Looking center,Unknown,Unknown
+1.71E+12,605,657,991,643,Looking center,Unknown,Unknown
+1.71E+12,605,657,991,643,Looking center,Unknown,Unknown
+1.71E+12,418,687,813,656,Looking center,Unknown,Unknown
+1.71E+12,418,687,813,656,Looking center,Unknown,Unknown
+1.71E+12,144,682,595,645,Looking center,Unknown,Unknown
+1.71E+12,144,682,595,645,Looking center,Unknown,Unknown
+1.71E+12,719,682,1130,678,Looking center,Unknown,Unknown
+1.71E+12,719,682,1130,678,Looking center,Unknown,Unknown
+1.71E+12,698,680,1086,671,Looking center,Unknown,Unknown
+1.71E+12,698,680,1086,671,Looking center,Unknown,Unknown
+1.71E+12,695,680,1080,671,Blinking,Unknown,Unknown
+1.71E+12,691,675,1078,669,Looking center,Unknown,Unknown
+1.71E+12,691,675,1078,669,Looking center,Unknown,Unknown
+1.71E+12,686,679,1087,671,Looking center,Unknown,Unknown
+1.71E+12,659,807,1110,801,Blinking,Unknown,Unknown
+1.71E+12,649,797,1100,791,Blinking,Unknown,Unknown
+1.71E+12,649,797,1100,791,Blinking,Unknown,Unknown
+1.71E+12,685,779,1099,778,Blinking,Unknown,Unknown
+1.71E+12,685,779,1099,778,Blinking,Unknown,Unknown
+1.71E+12,701,778,1168,777,Blinking,Unknown,Unknown
+1.70974E+12,784,671,1165,665,Blinking,Unknown,Unknown
+1.70974E+12,770,643,1159,636,Looking center,Saccade,Saccade
+1.70974E+12,757,632,1137,625,Looking center,Fixation,Fixation
+1.70974E+12,764,629,1143,622,Looking center,Fixation,Fixation
+1.70974E+12,758,631,1131,624,Blinking,Fixation,Fixation
+1.70974E+12,691,638,1066,625,Looking center,Saccade,Saccade
+1.70974E+12,744,630,1118,620,Blinking,Saccade,Saccade
+1.70974E+12,739,630,1115,620,Blinking,Fixation,Fixation
+1.70974E+12,739,629,1115,619,Looking center,Fixation,Fixation
+1.70974E+12,725,628,1114,617,Looking center,Fixation,Fixation
+1.70974E+12,736,623,1109,614,Blinking,Fixation,Fixation
+1.70974E+12,732,620,1103,611,Blinking,Fixation,Fixation
+1.70974E+12,710,629,1093,613,Blinking,Fixation,Fixation
+1.70974E+12,724,628,1093,617,Blinking,Fixation,Fixation
+1.70974E+12,728,627,1112,616,Blinking,Fixation,Fixation
+1.70974E+12,745,623,1116,614,Blinking,Fixation,Fixation
+1.70974E+12,684,582,946,577,Looking center,Unknown,Unknown
+1.70974E+12,785,648,1036,640,Looking center,Saccade,Saccade
+1.70974E+12,844,626,1106,623,Looking center,Saccade,Saccade
+1.70974E+12,800,616,1075,612,Looking center,Saccade,Saccade
+1.70974E+12,800,616,1075,612,Looking center,Fixation,Fixation
+1.70974E+12,778,606,1043,601,Looking center,Fixation,Saccade
+1.70974E+12,778,606,1043,601,Looking center,Fixation,Fixation
+1.70974E+12,849,612,1114,611,Blinking,Saccade,Saccade
+1.70974E+12,849,612,1114,611,Blinking,Fixation,Fixation
+1.70974E+12,941,616,1194,618,Looking left,Saccade,Saccade
+1.70974E+12,941,616,1194,618,Looking left,Fixation,Fixation
+1.70974E+12,946,614,1201,615,Blinking,Fixation,Fixation
+1.70974E+12,946,614,1201,615,Blinking,Fixation,Fixation
+1.70974E+12,994,617,1236,621,Blinking,Saccade,Saccade
+1.70975E+12,994,617,1236,621,Blinking,Fixation,Fixation
+1.70975E+12,1056,630,1293,635,Looking left,Saccade,Saccade
+1.70975E+12,1056,630,1293,635,Looking left,Fixation,Fixation
+1.70975E+12,981,617,1230,618,Blinking,Saccade,Saccade
+1.70975E+12,981,617,1230,618,Blinking,Fixation,Fixation
+1.70975E+12,927,607,1185,606,Blinking,Saccade,Saccade
+1.70975E+12,927,607,1185,606,Blinking,Fixation,Fixation
+1.70975E+12,793,613,1061,607,Looking center,Saccade,Saccade
+1.70975E+12,781,625,1050,622,Looking center,Fixation,Saccade
+1.70975E+12,743,658,1016,653,Looking center,Saccade,Saccade
+1.70975E+12,743,658,1016,653,Looking center,Fixation,Fixation
+1.70975E+12,729,664,993,659,Looking center,Fixation,Fixation
+1.70975E+12,729,664,993,659,Looking center,Fixation,Fixation
+1.70975E+12,731,675,997,669,Blinking,Fixation,Fixation
+1.70975E+12,731,675,997,669,Blinking,Fixation,Fixation
+1.70975E+12,821,846,1288,841,Blinking,Saccade,Saccade
+1.70975E+12,557,730,1020,703,Blinking,Saccade,Saccade
+1.70975E+12,588,718,1043,689,Blinking,Saccade,Saccade
+1.70975E+12,710,685,1189,681,Looking center,Saccade,Saccade
+1.70975E+12,597,695,1088,685,Blinking,Saccade,Saccade
+1.70975E+12,618,683,1097,676,Looking center,Saccade,Fixation
+1.70975E+12,610,688,1089,680,Looking center,Fixation,Fixation
+1.70975E+12,621,696,1100,690,Looking center,Fixation,Fixation
+1.70975E+12,626,714,1116,709,Looking center,Saccade,Saccade
+1.70975E+12,625,715,1107,709,Looking center,Fixation,Fixation
+1.70975E+12,616,712,1096,705,Looking center,Fixation,Fixation
+1.70975E+12,606,712,1087,706,Looking center,Fixation,Fixation
+1.70975E+12,614,712,1095,706,Looking center,Fixation,Fixation
+1.70975E+12,609,718,1073,711,Blinking,Fixation,Fixation
+1.70975E+12,640,740,1128,730,Blinking,Saccade,Saccade
+1.70975E+12,607,744,1103,732,Blinking,Fixation,Fixation
+1.70975E+12,608,729,1110,717,Looking center,Saccade,Saccade
+1.70975E+12,585,732,1090,715,Looking center,Fixation,Fixation
+1.70975E+12,585,732,1090,715,Looking center,Fixation,Fixation
+1.70975E+12,618,724,1094,715,Blinking,Saccade,Fixation
+1.70975E+12,619,723,1100,714,Blinking,Fixation,Fixation
+1.70975E+12,598,730,1099,716,Blinking,Fixation,Fixation
+1.70975E+12,598,730,1099,716,Blinking,Fixation,Fixation
+1.70975E+12,613,723,1090,713,Blinking,Fixation,Fixation
+1.70975E+12,613,723,1090,713,Blinking,Fixation,Fixation
+1.70975E+12,610,720,1087,711,Blinking,Fixation,Fixation
+1.70975E+12,610,720,1087,711,Blinking,Fixation,Fixation
+1.70975E+12,606,721,1083,710,Blinking,Fixation,Fixation
+1.70975E+12,601,723,1083,712,Blinking,Fixation,Fixation
+1.70975E+12,597,727,1070,717,Blinking,Fixation,Fixation
+1.70975E+12,604,729,1079,718,Blinking,Fixation,Fixation
+1.70975E+12,604,729,1079,718,Blinking,Fixation,Fixation
+1.70975E+12,599,730,1075,720,Blinking,Fixation,Fixation
+1.70975E+12,599,730,1075,720,Blinking,Fixation,Fixation
+1.70975E+12,567,740,1069,724,Blinking,Saccade,Fixation
+1.70975E+12,567,740,1069,724,Blinking,Fixation,Fixation
+1.70975E+12,576,744,1080,732,Blinking,Fixation,Fixation
+1.70975E+12,576,744,1080,732,Blinking,Fixation,Fixation
+1.70975E+12,587,739,1094,727,Blinking,Fixation,Fixation
+1.70975E+12,587,739,1094,727,Blinking,Fixation,Fixation
+1.70975E+12,579,750,1098,735,Blinking,Fixation,Fixation
+1.70975E+12,601,754,1112,742,Blinking,Fixation,Fixation
+1.70975E+12,600,757,1104,742,Blinking,Fixation,Fixation
+1.70975E+12,600,757,1104,742,Blinking,Fixation,Fixation
+1.70975E+12,622,756,1096,747,Blinking,Fixation,Fixation
+1.70975E+12,622,756,1096,747,Blinking,Fixation,Fixation
+1.70975E+12,580,769,1090,751,Blinking,Saccade,Fixation
+1.70975E+12,580,769,1090,751,Blinking,Fixation,Fixation
+1.70975E+12,582,773,1089,756,Blinking,Fixation,Fixation
+1.70975E+12,623,764,1089,755,Blinking,Saccade,Fixation
+1.70975E+12,627,765,1096,757,Blinking,Fixation,Fixation
+1.70975E+12,627,765,1096,757,Blinking,Fixation,Fixation
+1.70975E+12,624,774,1092,766,Blinking,Fixation,Fixation
+1.70975E+12,609,780,1072,769,Blinking,Fixation,Fixation
+1.70975E+12,613,778,1087,772,Blinking,Fixation,Fixation
+1.70975E+12,592,784,1089,773,Blinking,Fixation,Fixation
+1.70975E+12,636,780,1103,772,Blinking,Saccade,Fixation
+1.70975E+12,617,781,1115,769,Blinking,Fixation,Fixation
+1.70975E+12,599,787,1103,775,Blinking,Fixation,Fixation
+1.70975E+12,635,813,1101,794,Looking center,Unknown,Unknown
+1.70975E+12,175,787,560,786,Looking center,Saccade,Saccade
+1.70975E+12,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1.70975E+12,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1.70975E+12,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1.70975E+12,681,811,1184,794,Looking center,Unknown,Unknown
+1.70975E+12,681,811,1184,794,Looking center,Fixation,Fixation
+1.70975E+12,616,779,1130,755,Looking center,Saccade,Saccade
+1.70975E+12,595,778,1102,755,Looking center,Fixation,Fixation
+1.70975E+12,595,778,1102,755,Looking center,Fixation,Fixation
+1.70975E+12,537,793,1027,762,Looking center,Saccade,Saccade
+1.70975E+12,537,793,1027,762,Looking center,Fixation,Fixation
+1.70975E+12,498,796,979,763,Looking center,Saccade,Saccade
+1.70975E+12,498,796,979,763,Looking center,Fixation,Fixation
+1.70975E+12,504,805,993,772,Looking center,Fixation,Fixation
+1.70975E+12,504,805,993,772,Looking center,Fixation,Fixation
+1.70975E+12,233,835,651,795,Looking center,Saccade,Saccade
+1.70975E+12,241,799,683,785,Looking center,Saccade,Saccade
+1.70975E+12,414,827,869,796,Looking center,Saccade,Saccade
+1.70975E+12,473,822,938,786,Looking center,Saccade,Saccade
+1.70975E+12,469,858,975,828,Blinking,Saccade,Saccade
+1.70975E+12,433,863,935,827,Looking center,Saccade,Saccade
+1709778795008,756,681,1062,672,Looking center,Unknown,Unknown
+1709778797444,751,690,1066,682,Looking left,Fixation,Fixation
+1709778800025,739,680,1054,673,Looking left,Fixation,Fixation
+1709778802533,746,667,1059,661,Looking left,Fixation,Fixation
+1709778805974,744,665,1060,658,Looking left,Fixation,Fixation
+1709778809053,744,666,1064,658,Looking left,Fixation,Fixation
+1709781771587,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781776806,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781781564,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781786527,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781791166,578,761,918,826,Looking left,Unknown,Unknown
+1709781796493,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1709781801328,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781807308,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781812666,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781819730,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781824344,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781829172,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781834325,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781839450,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781844619,613,763,989,827,Looking center,Unknown,Unknown
+1709781849572,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1709781854442,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781859635,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781866921,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781872095,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709781900635,723,690,1223,708,Blinking,Unknown,Unknown
+1709781906189,723,690,1223,708,Blinking,Fixation,Fixation
+1709781913170,686,687,1106,707,Blinking,Saccade,Saccade
+1709781918346,686,687,1106,707,Blinking,Fixation,Fixation
+1709781924996,750,668,1219,699,Looking left,Saccade,Saccade
+1709781930412,750,668,1219,699,Looking left,Fixation,Fixation
+1709781935391,741,673,1222,699,Looking left,Fixation,Fixation
+1709781940412,740,666,1214,698,Blinking,Fixation,Fixation
+1709781945455,740,666,1214,698,Blinking,Fixation,Fixation
+1709781952771,742,669,1194,701,Looking left,Fixation,Fixation
+1709781957977,750,684,1223,720,Looking center,Saccade,Saccade
+1709781963162,746,690,1215,724,Looking center,Fixation,Fixation
+1709781999259,953,693,1403,709,Looking left,Unknown,Unknown
+1709782003986,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1709782008839,730,668,1166,681,Looking left,Unknown,Unknown
+1709782014359,704,683,1140,697,Looking left,Saccade,Saccade
+1709782019386,647,701,1089,710,Looking center,Saccade,Saccade
+1709782039537,664,706,1108,717,Looking center,Fixation,Fixation
+1709782044714,664,706,1108,717,Looking center,Fixation,Fixation
+1709782050004,664,706,1109,717,Looking left,Fixation,Fixation
+1709782054976,662,707,1112,717,Looking center,Fixation,Fixation
+1709782059913,653,706,1097,718,Blinking,Fixation,Fixation
+1709782065213,656,705,1103,718,Blinking,Fixation,Fixation
+1709782070163,656,706,1102,717,Blinking,Fixation,Fixation
+1709782075020,658,707,1110,718,Blinking,Fixation,Fixation
+1709782080016,659,706,1109,719,Blinking,Fixation,Fixation
+1709782085209,657,704,1119,716,Blinking,Fixation,Fixation
+1709782090218,651,711,1108,721,Blinking,Fixation,Fixation
+1709782095156,644,719,1091,725,Blinking,Fixation,Fixation
+1709782100114,642,721,1084,728,Blinking,Fixation,Fixation
+1709782105046,646,685,1083,693,Looking center,Saccade,Saccade
+1709782109979,686,661,1128,674,Looking center,Saccade,Saccade
+1709782114910,678,679,1129,693,Blinking,Saccade,Saccade
+1709782119905,647,687,1091,703,Blinking,Saccade,Saccade
+1709782124830,648,693,1096,707,Looking center,Fixation,Fixation
+1709782129700,649,693,1106,706,Blinking,Fixation,Fixation
+1709782134623,651,693,1104,707,Blinking,Fixation,Fixation
+1709782139834,650,695,1107,709,Blinking,Fixation,Fixation
+1709782144853,657,695,1113,709,Blinking,Fixation,Fixation
+1709782149900,644,698,1103,713,Blinking,Fixation,Fixation
+1709782154776,651,699,1098,712,Blinking,Fixation,Fixation
+1709782159850,644,699,1091,716,Blinking,Fixation,Fixation
+1709782164808,639,702,1095,717,Blinking,Fixation,Fixation
+1709782169734,647,702,1104,717,Blinking,Fixation,Fixation
+1709782174697,642,701,1081,715,Blinking,Fixation,Fixation
+1709782179815,645,701,1081,715,Blinking,Fixation,Fixation
+1709782184880,640,704,1088,719,Blinking,Fixation,Fixation
+1709782189822,668,693,1121,709,Blinking,Saccade,Saccade
+1709782195008,668,693,1121,709,Blinking,Fixation,Fixation
+1709782200255,650,717,1081,732,Blinking,Saccade,Saccade
+1709782205467,620,733,1044,748,Blinking,Saccade,Saccade
+1709782210826,605,744,1032,758,Blinking,Fixation,Fixation
+1709782215949,571,754,981,767,Blinking,Saccade,Saccade
+1709782220993,572,751,986,764,Blinking,Fixation,Fixation
+1709782226019,529,746,878,774,Blinking,Saccade,Saccade
+1709782231103,558,710,869,744,Blinking,Saccade,Saccade
+1709782236135,548,709,886,742,Blinking,Fixation,Fixation
+1709782241215,552,706,905,743,Blinking,Fixation,Fixation
+1709782246526,552,706,905,743,Blinking,Fixation,Fixation
+1709782251952,561,703,943,743,Blinking,Fixation,Saccade
+1709782257113,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1709782262106,548,689,905,729,Looking center,Unknown,Unknown
+1709782267214,553,689,903,730,Blinking,Fixation,Fixation
+1709782272283,565,692,916,731,Blinking,Fixation,Fixation
+1709782277405,559,695,915,734,Blinking,Fixation,Fixation
+1709782282642,571,698,943,737,Blinking,Fixation,Fixation
+1709782287848,572,703,924,738,Looking center,Fixation,Fixation
+1709782292920,574,704,929,740,Blinking,Fixation,Fixation
+1709782298152,570,701,947,739,Blinking,Fixation,Fixation
+1709782303264,568,702,945,740,Blinking,Fixation,Fixation
+1709782308482,568,702,945,740,Blinking,Fixation,Fixation
+1709782313716,575,701,948,740,Blinking,Fixation,Fixation
+1709782318952,575,701,948,740,Blinking,Fixation,Fixation
+1709782324430,577,700,953,739,Blinking,Fixation,Fixation
+1709782329718,577,700,953,739,Blinking,Fixation,Fixation
+1709782335567,572,701,946,740,Blinking,Fixation,Fixation
+1709782340572,572,701,946,740,Blinking,Fixation,Fixation
+1709782345837,573,702,952,740,Blinking,Fixation,Fixation
+1709782351157,573,702,952,740,Blinking,Fixation,Fixation
+1709782356311,578,703,953,742,Blinking,Fixation,Fixation
+1709782361333,755,634,1099,676,Looking center,Saccade,Saccade
+1709782366319,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1709782371489,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782376760,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782381858,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782387108,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782392187,672,791,1114,783,Looking center,Unknown,Unknown
+1709782399843,713,814,1154,808,Looking center,Saccade,Saccade
+1709782404757,683,822,1129,832,Looking center,Saccade,Saccade
+1709782409717,694,818,1151,839,Looking center,Fixation,Fixation
+1709782414713,697,830,1148,849,Looking left,Fixation,Fixation
+1709782419651,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1709782424457,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782429383,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782434563,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782441272,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709782446266,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1709793929736,633,594,952,628,Blinking,Unknown,Unknown
+1710788676599,686,773,1111,755,Looking center,Unknown,Unknown
+1710788683558,686,773,1111,755,Looking center,Fixation,Fixation
+1710788691927,681,775,1110,755,Looking center,Fixation,Fixation
+1710788696884,681,775,1110,755,Looking center,Fixation,Fixation
+1710788703811,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1710788708347,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788714436,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788719294,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788725175,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788730334,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788736674,633,755,1077,737,Blinking,Unknown,Unknown
+1710788741804,633,755,1077,737,Blinking,Fixation,Fixation
+1710788749915,646,746,1086,731,Looking center,Fixation,Fixation
+1710788755263,646,746,1086,731,Looking center,Fixation,Fixation
+1710788761507,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1710788766706,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788774815,634,756,1078,738,Looking center,Unknown,Unknown
+1710788789245,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1710788795878,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788804082,645,752,1082,736,Looking center,Unknown,Unknown
+1710788809258,645,752,1082,736,Looking center,Fixation,Fixation
+1710788815808,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1710788821001,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788826971,705,751,1116,740,Blinking,Unknown,Unknown
+1710788832159,705,751,1116,740,Blinking,Fixation,Fixation
+1710788839067,-1,-1,-1,-1,Unable to determine gaze direction,Saccade,Saccade
+1710788844807,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788851828,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788857873,-1,-1,-1,-1,Unable to determine gaze direction,Unknown,Unknown
+1710788865836,649,772,1077,757,Looking center,Unknown,Unknown
+1710788872312,649,772,1077,757,Looking center,Fixation,Fixation

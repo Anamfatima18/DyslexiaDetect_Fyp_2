@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/otpEdit1"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:inputType="number"
+            android:maxLength="1"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/otpEdit2"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:inputType="number"
+            android:maxLength="1"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/otpEdit3"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:inputType="number"
+            android:maxLength="1"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/otpEdit4"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:inputType="number"
+            android:maxLength="1"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/otpEdit5"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:inputType="number"
+            android:maxLength="1"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/otpEdit6"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:inputType="number"
+            android:maxLength="1"
+            android:textSize="20sp" />
+
+        <!-- Repeat the above EditText block for otpEdit2, otpEdit3, otpEdit4, otpEdit5, otpEdit6 -->
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonVerifyOtp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Verify OTP" />
+</LinearLayout>
